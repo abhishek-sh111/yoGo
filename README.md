@@ -1,2 +1,5 @@
 # yoGo
-This is my first flutter application and details are yet to be decided.Stay tuned for more updates..
+This is a flutter application with carousel and image card rendering.
+
+Q: What does it do?
+A: It includes a API fetch which gets images form an API and render them as a carousel like layout..
